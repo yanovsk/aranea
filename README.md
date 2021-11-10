@@ -4,7 +4,7 @@
 
 <h1 align="center">aranea</h1>
 
-<div align="center">All-in-one Cryptocurrency dashboard using React, Redux and RapidAPI</br></br>
+<div align="center">NASA L'Space Team 30 Internal Secured Messenger</br></br>
 
 <a href="https://github.com/yanovsk/aranea/pulls">
     <img src="https://img.shields.io/badge/PRs-welcome-green.svg" alt="PRs Welcome" />
