@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="150" src="./client/public/src/assets/aranea-logo.png">
+    <img width="150" src="./client/src/assets/aranea-logo.png">
 </p>
 
 <h1 align="center">aranea</h1>
