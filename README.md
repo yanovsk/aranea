@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="150" src="./src/assets/aranea-logo.png">
+    <img width="150" src="./client/public/src/assets/aranea-logo.png">
 </p>
 
 <h1 align="center">aranea</h1>
@@ -19,7 +19,7 @@
 <br />
 <br />
 
-![aranea gif demo](./src/images/aranea-video.gif)
+
 <br />
 <p align="center">
     <br />
