@@ -103,7 +103,7 @@ This is an example of how to list things you need to use the software and how to
    npm install
    ```
 4. Enter your API in `.env`
-    
+    ```
     TWILIO_APIKEY= 'YOURKEY'
     STREAMIO_APIKEY = 'YOURKEY'
 
